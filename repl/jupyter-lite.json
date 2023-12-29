@@ -4,7 +4,10 @@
       "disabledExtensions": [
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy",
-        "jupyterlab-tour"
+        "jupyterlab-tour",
+        "jupyterlite-xeus-sqlite",
+        "jupyterlite-p5-kernel",
+        "jupyterlite-xeus-lua"
       ]
     }
   }
